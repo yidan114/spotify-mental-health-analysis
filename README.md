@@ -34,11 +34,11 @@ Python · pandas · matplotlib · seaborn · scipy
 
 ## Structure
 
-├── 01_data_exploration.ipynb
-├── figures/
-├── data/raw/                   (not tracked)
-├── data/processed/
-└── README.md
+    ├── 01_data_exploration.ipynb
+    ├── figures/
+    ├── data/raw/                   (not tracked)
+    ├── data/processed/
+    └── README.md
 
 ## Author
 
